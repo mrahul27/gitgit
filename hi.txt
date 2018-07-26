@@ -1,0 +1,3 @@
+hi 3rd file to chk if git add command needs ext name while givin cmd like below
+
+git add hi.txt
